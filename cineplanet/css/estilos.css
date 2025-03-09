@@ -1,0 +1,28 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.btn-rojo {
+    background-color: #fc2a6a;
+    border-color: #8B0000;
+    color: white;
+}
+
+.btn-rojo:hover {
+    background-color: #a70000;
+    border-color: #a70000;
+}
+
+.btn {
+    border-radius: 22px; 
+    padding: 10px 20px; 
+    color: white; 
+    border: none; 
+    font-size: 16px; 
+    text-align: center; 
+    transition: background-color 0.3s ease; 
+}
+
+.color-principal{
+    background-color: #0066CC;
+}
